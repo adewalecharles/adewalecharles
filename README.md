@@ -2,11 +2,11 @@
 ## I'm a Fullstack Software engineer interested in working and collaborating on ground breaking, disruptive software solutions!
 
 - I have a background in Computer Science :v:
-- I have 3 years+ experience in software engineering and development ⚡
-- 🔭 I’m currently working on [https://smeify.com](https://smeify.com)
+- I have 5 years+ experience in software engineering and development ⚡
+- 🔭 I’m currently working on [https://movam.ng](https://movam.ng)
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Innovative projects
-- 💬 Ask me about PHP/Laravel, Nodejs, Jquery
+- 💬 Ask me about PHP/Laravel, Nodejs, Jquery, spring, springboot
 - 📫 How to reach me: [@adewalecharles](https://twitter.com/adewalecharles)
 - ⚡ Fun fact: I love playstaion, k-drama, and anime
 
